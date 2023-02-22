@@ -1,7 +1,6 @@
-package com.omniacademy.formation.practice5;
+package com.omniacademy.formation.practice6;
 
 import java.math.BigDecimal;
-import java.util.Objects;
 
 import static java.math.RoundingMode.HALF_UP;
 

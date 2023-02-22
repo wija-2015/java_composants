@@ -1,4 +1,4 @@
-package com.omniacademy.formation.practice5;
+package com.omniacademy.formation.practice6;
 
 /**
  * @author Wijdane KHATTAT
